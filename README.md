@@ -1,4 +1,4 @@
-# repo_template
+# AdventOfCode2022
 
 To build and run:
 
